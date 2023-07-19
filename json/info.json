@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Chicago Bills",
+    "img": "image/team1.png",
+    "id": 14,
+    "abbreviation": "LAL",
+    "city": "Los Angeles",
+    "conference": "West",
+    "division": "Pacific",
+    "full_name": "Los Angeles Lakers",
+    "name": "Lakers"
+  },
+  {
+    "title": "Chicago Bills",
+    "img": "image/team2.png"
+  },
+  {
+    "title": "Chicago Bills",
+    "img": "image/team3.png",
+    "id": 2,
+    "abbreviation": "BOS",
+    "city": "Boston",
+    "conference": "East",
+    "division": "Atlantic",
+    "full_name": "Boston Celtics",
+    "name": "Celtics"
+  },
+  {
+    "title": "Chicago Bills",
+    "img": "image/team4.png"
+  },
+  {
+    "title": "Chicago Bills",
+    "img": "image/team5.png",
+    "id": 20,
+    "abbreviation": "NYK",
+    "city": "New York",
+    "conference": "East",
+    "division": "Atlantic",
+    "full_name": "New York Knicks",
+    "name": "Knicks"
+  },
+  {
+    "title": "Chicago Bills",
+    "img": "image/team6.png",
+    "id": 10,
+    "abbreviation": "GSW",
+    "city": "Golden State",
+    "conference": "West",
+    "division": "Pacific",
+    "full_name": "Golden State Warriors",
+    "name": "Warriors"
+  }
+]

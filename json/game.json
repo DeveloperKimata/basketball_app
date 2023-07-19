@@ -1,0 +1,115 @@
+[
+  {
+    "id": "47179",
+
+      "hId": 2,
+      "hAbbreviation": "BOS",
+      "hCity": "Boston",
+      "hConference": "East",
+      "hDivision": "Atlantic",
+      "hFull_name": "Boston Celtics",
+      "hName": "Celtics",
+
+      "vTeam.id": 4,
+      "vAbbreviation": "CHA",
+      "vCity": "Charlotte",
+      "vConference": "East",
+      "vDivision": "Southeast",
+      "vFull_name": "Charlotte Hornets",
+      "vName": "Hornets"
+  },
+  {
+    "id": "47179",
+
+      "hId": 2,
+      "hAbbreviation": "BOS",
+      "hCity": "Boston",
+      "hConference": "East",
+      "hDivision": "Atlantic",
+      "hFull_name": "Boston Celtics",
+      "hName": "Celtics",
+
+      "vId": 13,
+      "vAbbreviation": "LAC",
+      "vCity": "LA",
+      "vConference": "West",
+      "vDivision": "Pacific",
+      "vFull_name": "LA Clippers",
+      "vName": "Clippers"
+  },
+  {
+    "id": "48751",
+
+      "hId": 2,
+      "hAbbreviation": "BOS",
+      "hCity": "Boston",
+      "hConference": "East",
+      "hDivision": "Atlantic",
+      "hFull_name": "Boston Celtics",
+      "hName": "Celtics",
+
+      "vId": 13,
+      "vAbbreviation": "LAC",
+      "vCity": "LA",
+      "vConference": "West",
+      "vDivision": "Pacific",
+      "vFull_name": "LA Clippers",
+      "vName": "Clippers"
+  },
+  {
+    "id": "48739",
+      "hId": 23,
+      "hAbbreviation": "PHI",
+      "hCity": "Philadelphia",
+      "hConference": "East",
+      "hDivision": "Atlantic",
+      "hFull_name": "Philadelphia 76ers",
+      "hName": "76ers",
+
+      "vId": 8,
+      "vAbbreviation": "DEN",
+      "vCity": "Denver",
+      "vConference": "West",
+      "vDivision": "Northwest",
+      "vFull_name": "Denver Nuggets",
+      "vName": "Nuggets"
+  },
+  {
+    "id": "48740",
+
+      "hId": 30,
+      "hAbbreviation": "WAS",
+      "hCity": "Washington",
+      "hConference": "East",
+      "hDivision": "Southeast",
+      "hFull_name": "Washington Wizards",
+      "hName": "Wizards",
+
+      "vId": 6,
+      "vAbbreviation": "CLE",
+      "vCity": "Cleveland",
+      "vConference": "East",
+      "vDivision": "Central",
+      "vFull_name": "Cleveland Cavaliers",
+      "vName": "Cavaliers"
+  },
+  {
+    "id": "48746",
+
+      "hId": 26,
+      "hAbbreviation": "SAC",
+      "hCity": "Sacramento",
+      "hConference": "West",
+      "hDivision": "Pacific",
+      "hFull_name": "Sacramento Kings",
+      "hName": "Kings",
+
+      "vId": 16,
+      "vAbbreviation": "MIA",
+      "vCity": "Miami",
+      "vConference": "East",
+      "vDivision": "Southeast",
+      "vFull_name": "Miami Heat",
+      "vName": "Heat"
+  }
+]

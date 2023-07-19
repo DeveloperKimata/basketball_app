@@ -1,0 +1,26 @@
+[
+  {
+    "title1": "Jabari",
+    "title2": "Bird",
+    "height": "175.0cm",
+    "position": "G",
+    "team": "Boston Celtics",
+    "img": "image/jabari.png"
+  },
+  {
+    "title1": "Marshon",
+    "title2": "Brooks",
+    "height": "175.0cm",
+    "position": "G",
+    "team": "Memphis Grizzlies",
+    "img": "image/marshon.png"
+  },
+  {
+    "title1": "Ron",
+    "title2": "Baker",
+    "height": "175.0cm",
+    "position": "G",
+    "team": "New York Knicks",
+    "img": "image/ron.png"
+  }
+]
